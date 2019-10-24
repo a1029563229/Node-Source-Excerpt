@@ -1,4 +1,4 @@
-# http 模块
+# Node 源码 —— http 模块
 
 `http` 模块位于 `/lib/http.js`，我们直接看该模块的核心方法 `createServer`
 
