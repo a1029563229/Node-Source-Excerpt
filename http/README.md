@@ -1,6 +1,6 @@
 # http 模块
 
-`http` 模块位于 `/lib/http.js`，先看我们经常使用的一个方法是 `createServer`
+`http` 模块位于 `/lib/http.js`，我们直接看该模块的核心方法 `createServer`
 
 ```js
 function createServer(opts, requestListener) {
